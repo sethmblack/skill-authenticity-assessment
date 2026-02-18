@@ -4,7 +4,8 @@ description: Evaluate whether choices, beliefs, or actions reflect genuine self-
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3432
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - authenticity-assessment
 - writing
